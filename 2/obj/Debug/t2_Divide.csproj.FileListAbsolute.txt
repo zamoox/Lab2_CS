@@ -1,0 +1,20 @@
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe.config
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.pdb
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csprojAssemblyReference.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csproj.CoreCompileInputs.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.pdb
+C:\Users\dima1\Desktop\t1\bin\Debug\t1.exe.config
+C:\Users\dima1\Desktop\t1\bin\Debug\t1.exe
+C:\Users\dima1\Desktop\t1\bin\Debug\t1.pdb
+C:\Users\dima1\Desktop\t1\obj\Debug\t2_Divide.csprojAssemblyReference.cache
+C:\Users\dima1\Desktop\t1\obj\Debug\t1.exe
+C:\Users\dima1\Desktop\t1\obj\Debug\t1.pdb
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\bin\Debug\t1.exe.config
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\bin\Debug\t1.exe
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\bin\Debug\t1.pdb
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\obj\Debug\t2_Divide.csprojAssemblyReference.cache
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\obj\Debug\t2_Divide.csproj.CoreCompileInputs.cache
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\obj\Debug\t1.exe
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\obj\Debug\t1.pdb

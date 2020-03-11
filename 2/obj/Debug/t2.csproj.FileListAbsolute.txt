@@ -1,0 +1,7 @@
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe.config
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.pdb
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2.csprojAssemblyReference.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.pdb

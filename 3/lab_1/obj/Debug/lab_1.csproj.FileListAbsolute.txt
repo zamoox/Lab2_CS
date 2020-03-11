@@ -1,0 +1,14 @@
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t2\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\bin\Debug\lab_1.exe
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\bin\Debug\lab_1.pdb
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\obj\Debug\lab_1.exe
+C:\Users\zamoo\Desktop\Комп $Y$TEMU\Lab2\2\lab_1\obj\Debug\lab_1.pdb
